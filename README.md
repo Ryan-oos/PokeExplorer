@@ -1,6 +1,6 @@
 🚀 PokeExplorer - Catálogo Pokémon
 Link do Projeto: https://poke-explorer-lyart.vercel.app/
-
+git commit -m "docs: atualiza readme com link do deploy"
 🎯 Objetivo
 O objetivo deste projeto é desenvolver uma aplicação web funcional utilizando o framework Next.js para colocar em prática os conceitos de consumo de APIs externas (PokéAPI), manipulação de rotas dinâmicas e componentização. O foco é criar um catálogo simples, intuitivo e de fácil manutenção, respeitando as normas de design e organização de código propostas na disciplina de Programação e Design para Web II.
 
